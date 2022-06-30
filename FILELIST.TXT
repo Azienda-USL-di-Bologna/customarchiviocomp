@@ -1,0 +1,26 @@
+; Directories
+fonts/
+images/
+
+fonts/arial.ttf
+fonts/arialbd.ttf
+fonts/arialbi.ttf
+fonts/ariali.ttf
+fonts/ariblk.ttf
+
+fonts/tahoma.ttf
+fonts/tahomabd.ttf
+
+images/ImmagineIntestazionePagineSuccessive.gif
+images/ImmagineIntestazionePrimaPagina.png
+images/cartella_blue_16x16.png
+
+images/ImmagineIntestazionePagineSuccessive.gif
+images/ImmagineIntestazionePrimaPagina.png
+
+images/cartella_blue_16x16.png
+images/cartella_arancio.png
+images/cartella_gialla.png
+images/cartella_grigia.png
+images/cartella_rossa.png
+images/100999_intestazione.png
